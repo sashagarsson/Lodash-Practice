@@ -1,0 +1,9 @@
+{
+    "name": "lodash-practice",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21"
+    }
+}
